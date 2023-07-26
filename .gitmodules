@@ -1,0 +1,12 @@
+[submodule "redis"]
+  path = redis
+  url = https://github.com/redis/redis.git
+[submodule "wfrest"]
+  path = wfrest
+  url = https://github.com/wfrest/wfrest.git
+[submodule "workflow"]
+  path = workflow
+  url = https://github.com/sogou/workflow.git
+[submodule "workflow_annotation"]
+  path = workflow_annotation
+  url = https://github.com/chanchann/workflow_annotation.git
